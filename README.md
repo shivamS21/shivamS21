@@ -10,6 +10,7 @@
 - ⚡ Fun fact **I am a moody traveller.**
 
 -  🦾 Loves problem solving - **https://leetcode-stat-api.herokuapp.com/shivamSha_123/theme=dark**
+
    ✔ Best Rank Google Kick Start: 1600 out of 9300 participants in 2022.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
