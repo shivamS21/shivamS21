@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">Software developer @MATLAB from India.</h3>
 
-- 🌱 I’m currently learning **Cloud Computing, Network security, Software Design Patterns, Unit Testing**
+- 🌱 I’m currently learning **Network security, Software Design Patterns, Unit Testing**
 
 - 💬 Ask me about **Matlab, Computer Networks, JavaScript**
 
