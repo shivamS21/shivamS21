@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software developer from India || C++ || Python || React || Node.js || Graphql</h3>
+<h3 align="center">Software developer from India || C++ || Python || React || Node.js || Graphql || Matlab</h3>
 
 - 🌱 I’m currently learning **Network security, Software Design Patterns, Unit Testing**
 
