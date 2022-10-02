@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Network security, Software Design Patterns, Unit Testing**
 
-- 💬 Ask me about **Matlab, Computer Networks, JavaScript**
+- 💬 Ask me about **Matlab, Computer Networks and Security**
 
 - 📫 How to reach me **shivamsha2100@gmail.com**
 
