@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software developer from India JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
+<h3 align="center">Software Developer-1 from India. Well versed with JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
 
-- 🌱 I’m currently working with ** React-Js, NodeJs, Tailwind-Css, Unit Testing** 
+- 🌱 I’m currently working with **React-Js, NodeJs, Tailwind-Css, Unit Testing** 
 
-- 💬 Ask me about **Front/Back-end, Matlab, Computer Networks and Security**
+- 💬 Ask me about **Front/Back-end, MATLAB, Computer Networks and Security**
 
 - 📫 How to reach me **shivamsha2100@gmail.com**
 
