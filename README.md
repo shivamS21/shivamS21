@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software developer from India || C++ || Python || React || Node.js || Graphql || Matlab</h3>
+<h3 align="center">Software developer from India JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
 
-- 🌱 I’m currently learning **Network security, Software Design Patterns, Unit Testing**
+- 🌱 I’m currently working with ** React-Js, NodeJs, Tailwind-Css, Unit Testing** 
 
-- 💬 Ask me about **Matlab, Computer Networks and Security**
+- 💬 Ask me about **Front/Back-end, Matlab, Computer Networks and Security**
 
 - 📫 How to reach me **shivamsha2100@gmail.com**
 
-- ⚡ Fun fact **I am a moody traveller.**
+- ⚡ Fun fact **I am good at window shopping.**
 
 -  🦾 Loves problem solving - **https://leetcode-stat-api.herokuapp.com/shivamSha_123/theme=dark**
 
