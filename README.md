@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">Software Developer-1 from India. Well versed with JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
 
-- 🌱 I’m currently working with **JavaScript, LIT, React-Js, NodeJs, Tailwind-CSS, Unit Testing** 
+- 🌱 I’m currently working with **JavaScript, LIT, React-Js, NodeJs, NextJs, Tailwind-CSS, GraphQL and Unit Testing** 
 
 - 💡 Current learning making high-quality web applications using NextJs, GraphQl and NodeJs.
   
