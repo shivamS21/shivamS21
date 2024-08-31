@@ -12,6 +12,8 @@
 - ⚡ Fun fact **Getting bad at window shopping. Finally.**
 
 -  🦾 Loves problem solving - <a href="https://leetcode.com/u/shivamSha_123/">LeetCode</a>
+      Current leetcode reating: 1828
+
 
    ✔ Best Rank Google Kick Start: 1600 out of 9300 participants in Round F, 2022.
 <h3 align="left">Connect with me:</h3>
