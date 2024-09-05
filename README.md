@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">Software Developer-1 from India. Well versed with JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
 
-- 🌱 I’m currently working with **JavaScript, LIT, React-Js, NodeJs, NextJs, Tailwind-CSS, GraphQL and Unit Testing** 
+- 🌱 I’m currently working with **Next.Js, Golang, GraphQL, JavaScript, NodeJs, LIT, React.Js, Tailwind-CSS and Unit Testing** 
 
 - 💡 Current learning making high-quality web applications using NextJs, GraphQl and NodeJs.
   
-- 💬 Ask me about **Front/Back-end, MATLAB, Computer Networks and Security**
+- 💬 Ask me about **Golang, Next.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
 
 - 📧 How to reach me **shivamsha2100@gmail.com**
 
@@ -15,7 +15,7 @@
       Current leetcode reating: 1828
 
 
-   ✔ Best Rank Google Kick Start: 1600 out of 9300 participants in Round F, 2022.
+   ✔ Best Rank Google Kick Start: 1600 in Round F, 2022.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-sharma-7b1026198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-sharma-7b1026198/" height="30" width="40" /></a>
