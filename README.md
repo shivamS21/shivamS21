@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently working with **Next.Js, Golang, GraphQL, JavaScript, NodeJs, LIT, React.Js, Tailwind-CSS and Unit Testing** 
 
-- 💡 Current learning making high-quality web applications using NextJs, GraphQl and NodeJs.
+- 💡 Current learning making high-quality web applications using Golang, NextJs, GraphQl and NodeJs.
   
-- 💬 Ask me about **Golang, Next.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
+- 💬 Ask me about **Golang, Next.Js, Node.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
 
 - 📧 How to reach me **shivamsha2100@gmail.com**
 
