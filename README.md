@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software Developer-1 from India. Well versed with JavaScript || ReactJs || Node.js || Tailwind-CSS || C++ || Python || Graphql || MATLAB</h3>
+<h3 align="center">Software Developer-1 from India. Well versed with JS || TS || ReactJs || NextJS || Node.Js || Graphql || Tailwind-CSS || C++ || Python || MATLAB || Unit Testing</h3>
 
 - 🌱 I’m currently working with **Next.Js, Golang, GraphQL, JavaScript, NodeJs, LIT, React.Js, Tailwind-CSS and Unit Testing** 
 
-- 💡 Current learning making high-quality web applications using Golang, NextJs, GraphQl and NodeJs.
+- 💡 Currently learning making high-quality web applications using Golang, NextJs, GraphQl and NodeJs.
   
 - 💬 Ask me about **Golang, Next.Js, Node.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
 
