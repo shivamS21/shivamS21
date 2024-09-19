@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software Developer-1 from India. Well versed with JS || TS || ReactJs || NextJS || Node.Js || Graphql || Tailwind-CSS || C++ || Python || MATLAB || Unit Testing</h3>
+<h3 align="center">Software Engineer(I) from India. Well versed with JS || TS || Node.Js || ReactJs || NextJS || Graphql || Tailwind-CSS || C++ || Python || MATLAB || Unit Testing</h3>
 
 - 🌱 I’m currently working with **Next.Js, Golang, GraphQL, JavaScript, NodeJs, LIT, React.Js, Tailwind-CSS and Unit Testing** 
 
