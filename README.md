@@ -9,11 +9,6 @@
 
 - 📧 How to reach me **shivamsha2100@gmail.com**
 
-- ⚡ Fun fact **Getting bad at window shopping. Finally.**
-
--  🦾 Loves problem solving - <a href="https://leetcode.com/u/shivamSha_123/">LeetCode</a>
-      Current leetcode reating: 1828
-
 
    ✔ Best Rank Google Kick Start: 1600 in Round F, 2022.
 <h3 align="left">Connect with me:</h3>
