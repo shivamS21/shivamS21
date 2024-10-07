@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">Software Engineer(I) from India. Well versed with JS || TS || Node.Js || ReactJs || NextJS || Graphql || Tailwind-CSS || C++ || Python || MATLAB || Unit Testing</h3>
+<h3 align="center">Software Engineer(I) from India. Well versed with TypeScript || JavScript || Node.Js || ReactJs || GoLang || NextJS || Graphql || Tailwind-CSS || C++ || Python || MATLAB || Testing-Frameworks</h3>
 
-- 🌱 I’m currently working with **Next.Js, Golang, GraphQL, JavaScript, NodeJs, LIT, React.Js, Tailwind-CSS and Unit Testing** 
+- 🌱 I’m currently working with **Next.Js, TypeScript, Golang, GraphQL, JavaScript, Node.Js, LIT, React.Js, Tailwind-CSS and Unit Testing** 
 
-- 💡 Currently learning making high-quality web applications using Golang, NextJs, GraphQl and NodeJs.
+- 💡 Currently learning making high-quality web applications using Golang, NextJs(in TS), GraphQl and NodeJs.
   
-- 💬 Ask me about **Golang, Next.Js, Node.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
+- 💬 Ask me about **Golang, TypeScript, Next.Js, Node.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
 
 - 📧 How to reach me **shivamsha2100@gmail.com**
 
