@@ -7,7 +7,7 @@
   
 - 💬 Ask me about **Golang, TypeScript, Next.Js, Node.Js, Backend/Front-end, MATLAB, Computer Networks and Security**
 
-- 📧 How to reach me **shivamsha2100@gmail.com**
+- 📧 How to reach me **shivams21000@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
