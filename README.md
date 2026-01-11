@@ -7,7 +7,7 @@
   
 - 💬 Ask me about **Golang, TypeScript, Next.Js, Node.Js**
 
-- 📧 How to reach me **shivams21000@gmail.com**
+- 📧 How to reach me **shivamsh2160@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
